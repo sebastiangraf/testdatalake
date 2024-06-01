@@ -1,0 +1,9 @@
+{
+	"name": "testlecturer",
+	"location": "switzerlandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2420e324-b7a4-4f9d-a5ba-6039597d9e6d",
+		"tenantId": "9d1a5fc8-321e-4101-ae63-530730711ac2"
+	}
+}
